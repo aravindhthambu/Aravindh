@@ -47,7 +47,7 @@ Assert that the page title matches the expected value.
 
 Installation
 Clone the Repository:
-git clone https://github.com/aravindhthambu/Aravindh
+git clone https://github.com/aravindhthambu/Edcontrolsautomation/tree/master
 
 Navigate to the Project Directory:
 cd Aravindh
