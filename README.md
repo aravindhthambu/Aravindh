@@ -50,7 +50,7 @@ Clone the Repository:
 git clone https://github.com/aravindhthambu/Edcontrolsautomation/tree/master
 
 Navigate to the Project Directory:
-cd Aravindh
+cd Edcontrolsautomation
 
 Install Dependencies:
 mvn install
